@@ -1,0 +1,32 @@
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord Bot.exe.config
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.csprojResolveAssemblyReference.cache
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord Bot.exe
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord Bot.pdb
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord.Net.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\RestSharp.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\WebSocket4Net.dll
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord.Net.xml
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.xml
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\RestSharp.xml
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.exe
+c:\users\vartotojas\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.pdb
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Iesi.Collections.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NHibernate.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NLog.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\ThinkingHome.Core.Plugins.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\ThinkingHome.Plugins.Timer.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Iesi.Collections.xml
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NHibernate.xml
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\NLog.xml
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\RedditSharp.dll
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Vartotojas\Documents\Visual Studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\GiphyDotNet.dll
